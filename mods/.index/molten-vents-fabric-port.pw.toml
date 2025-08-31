@@ -1,0 +1,16 @@
+filename = 'molten-vents-fabric-1.1.2.jar'
+name = 'Create: Molten Vents Fabric Port'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3b723fee30671e9f49801a0d72dd94c6870b542eabce8ad707976550ebc3d0dc43fe977829047bc9afa593d1984104fec15257231c5ede3bcf4c5db0ee124b7b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/62BenJ13/versions/x8L8g8Sl/molten-vents-fabric-1.1.2.jar'
+
+[update.modrinth]
+mod-id = '62BenJ13'
+version = 'x8L8g8Sl'

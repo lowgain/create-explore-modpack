@@ -1,0 +1,16 @@
+filename = 'YungsBetterCaves-1.20.1-Fabric-2.0.4.jar'
+name = "YUNG's Better Caves"
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '178cfbc371acb997486330ab0e9bfa739d97b3a25dcf0983cfef298b9987344a6ee6041429fb10a245de1f5bf83f0aa778a654c8597b223acfecbc537c1b6cc9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Dfu00ggU/versions/DbqXYQu3/YungsBetterCaves-1.20.1-Fabric-2.0.4.jar'
+
+[update.modrinth]
+mod-id = 'Dfu00ggU'
+version = 'DbqXYQu3'

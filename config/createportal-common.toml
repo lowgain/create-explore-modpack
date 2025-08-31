@@ -1,0 +1,3 @@
+#Dimensions that Create trains are not allowed to travel to/from.
+level = ["minecraft:the_end"]
+

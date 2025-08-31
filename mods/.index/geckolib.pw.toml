@@ -1,0 +1,16 @@
+filename = 'geckolib-fabric-1.20.1-4.7.4.jar'
+name = 'Geckolib'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd28e58213847debfd942658091a4cfba388b548fdebfc516c69b40401217790b1a0f30d3fbf8dc1bca3bacf32d867ea9ab76e670e590c83000c7a16c72d73123'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8BmcQJ2H/versions/Lj5ypG1U/geckolib-fabric-1.20.1-4.7.4.jar'
+
+[update.modrinth]
+mod-id = '8BmcQJ2H'
+version = 'Lj5ypG1U'

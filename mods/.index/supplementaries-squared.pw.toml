@@ -1,0 +1,16 @@
+filename = 'suppsquared-1.20-1.1.23-fabric.jar'
+name = 'Supplementaries Squared'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '43632b9b6bfd0b19332fb4c6692f7224d277c21cb42b3dd3434e0eca15b3805b66b30a41bdc8bdb68fdf14b95f5d43139959867d84f92c711e9e94942d948614'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dCCkNFwE/versions/22lqnAcB/suppsquared-1.20-1.1.23-fabric.jar'
+
+[update.modrinth]
+mod-id = 'dCCkNFwE'
+version = '22lqnAcB'

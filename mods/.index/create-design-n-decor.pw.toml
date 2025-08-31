@@ -1,0 +1,16 @@
+filename = 'design_decor-0.4.0b_fabric+1.20.1.jar'
+name = "Create: Design n' Decor"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1df837efcdb8b5e7cc6bf1de2af93e351958f8ecdbe690b70ed73fea9082c69d0ecd5c1c45a2eae595309a7b20458b9f26d125f70dd06335f8ded2cee8ef7b9f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/x49wilh8/versions/6bv4ASFG/design_decor-0.4.0b_fabric%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'x49wilh8'
+version = '6bv4ASFG'

@@ -1,0 +1,16 @@
+filename = 'settlement-roads-2.0.1.jar'
+name = "Countered's Settlement Roads"
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ae785480099472dbdf2b91fc52a40847cc20e8d8cc680ab83ed3dace6c0aa6b8a750a2b32185ebd4404bcd40f234e649b8edefc954348c2b9113be30e7457ccd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rrAGfOzL/versions/75PRg4QH/settlement-roads-2.0.1.jar'
+
+[update.modrinth]
+mod-id = 'rrAGfOzL'
+version = '75PRg4QH'

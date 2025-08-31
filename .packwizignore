@@ -1,0 +1,10 @@
+/*.nix
+/*.zip
+/*.mrpack
+/*.lock
+README.md
+/CHANGELOG.md
+/LICENSE
+.gitkeep
+/.direnv
+.envrc

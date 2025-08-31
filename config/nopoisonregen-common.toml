@@ -1,0 +1,6 @@
+
+#General settings
+[general]
+	#Adding usernames will make these users have less luck with getting statues
+	cancelable = ["minecraft:regeneration,minecraft:poison"]
+

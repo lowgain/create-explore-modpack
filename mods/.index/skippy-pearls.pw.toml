@@ -1,0 +1,35 @@
+filename = 'skippy-pearls-1.4.jar'
+name = 'Skippy Pearls'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.16.5',
+    '1.17',
+    '1.17.1',
+    '1.18',
+    '1.18.1',
+    '1.18.2',
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6'
+]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2b6dfd282ce7f4953e634e711f139da3a60c87eeecd927ba26d311e6a3a167320d0cbc6a68a853d1796c1885bb684e0edaea5c7b43f34a38c41778d3779c02d7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KM7gMSY1/versions/uXDwLG3V/skippy-pearls-1.4.jar'
+
+[update.modrinth]
+mod-id = 'KM7gMSY1'
+version = 'uXDwLG3V'

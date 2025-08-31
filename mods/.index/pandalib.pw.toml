@@ -1,0 +1,16 @@
+filename = 'pandalib-fabric-mc1.20-0.5.2-SNAPSHOT.jar'
+name = 'PandaLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '8ec6d24fbd5d816f913cfe00271b2d7c277f66e0ea6b48fb92092ba4cfc0745f85bb72b25f6366772049f65c1e9455f581dfd163619c869d84d111c6a472f5b1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mEEGbEIu/versions/pdcdnDQm/pandalib-fabric-mc1.20-0.5.2-SNAPSHOT.jar'
+
+[update.modrinth]
+mod-id = 'mEEGbEIu'
+version = 'pdcdnDQm'

@@ -1,0 +1,16 @@
+filename = 'cakechomps-fabric-6.2.0+1.20.1.jar'
+name = 'Cake Chomps'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7c81ddaf2109db6e3cc3fd1c7669bf868b3a69e51dd629434e33e81df3e3afe937d476c2b0ad732dd1f0596c58fdb2f735c0b1506f17821b0282c0baa3127145'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/g646EoqQ/versions/LtItcB6s/cakechomps-fabric-6.2.0%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'g646EoqQ'
+version = 'LtItcB6s'

@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "easy_villagers:auto_trader"
+        }
+    ],
+    "result": {
+        "item": "minecraft:netherite_ingot"
+    }
+}

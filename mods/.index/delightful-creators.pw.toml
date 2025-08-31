@@ -1,0 +1,16 @@
+filename = 'delightful-creators-1.5-1.20.x.jar'
+name = 'Delightful Creators'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '0b4ad7ad9efa031fa76076d7d81e3de6d7f30d8993e0cc612831d8f626d321aafd0c336d473fe5ac3f89e271a412486f1031c40f850bac70119f1c2eb722f601'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jmJ87gsb/versions/pypf2sxy/delightful-creators-1.5-1.20.x.jar'
+
+[update.modrinth]
+mod-id = 'jmJ87gsb'
+version = 'pypf2sxy'

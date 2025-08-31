@@ -1,0 +1,16 @@
+filename = 'PlutosDrinksAPI-1.20.1+0.3.12.jar'
+name = "Pluto's Drinks API"
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3c4f8998a45c560c43fb880f778d06b6ee578700fa46893c67a043be6ebb39b58f43aa0892b7838703975005fca997966273216c5e3135f12aa8068a872cca93'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3frUAX4S/versions/rJip3VKX/PlutosDrinksAPI-1.20.1%2B0.3.12.jar'
+
+[update.modrinth]
+mod-id = '3frUAX4S'
+version = 'rJip3VKX'

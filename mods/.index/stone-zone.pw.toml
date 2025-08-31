@@ -1,0 +1,16 @@
+filename = 'stonezone-1.20-2.9.1-fabric.jar'
+name = 'Every Compat (Stone Zone)'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'a99c67de57c18481f6ab5fc53c4fc520cf2debee31d6dfc72e6afc1af0a4ba065df9aa4f71c57c08cc9c1dd8f3a29ecace3784311231d4fe51264dc8c525fa7f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uYwn8IP5/versions/waf89gm4/stonezone-1.20-2.9.1-fabric.jar'
+
+[update.modrinth]
+mod-id = 'uYwn8IP5'
+version = 'waf89gm4'

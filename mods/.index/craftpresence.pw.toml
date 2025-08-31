@@ -1,0 +1,16 @@
+filename = 'CraftPresence-2.6.2+1.20.1-fabric.jar'
+name = 'CraftPresence'
+side = 'client'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '59c88bf6c54bb3bafba663f97de458fbc2e2f163baed9ea6ba335f1c52abf834536e9708bc1a73bb8aeb945dcca6660481759412b35f3845254e07e063b9a9f3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DFqQfIBR/versions/kjnvXt7L/CraftPresence-2.6.2%2B1.20.1-fabric.jar'
+
+[update.modrinth]
+mod-id = 'DFqQfIBR'
+version = 'kjnvXt7L'

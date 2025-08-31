@@ -1,0 +1,13 @@
+name = "Create Explore Modpack"
+author = "Lowgain"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1b46eb664f193f3e5d87ee65609448708dfb22d94373f06b6f3d188472b19950"
+
+[versions]
+fabric = "0.16.5"
+minecraft = "1.20.1"

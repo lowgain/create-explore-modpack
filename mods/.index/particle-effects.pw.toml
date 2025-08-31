@@ -1,0 +1,16 @@
+filename = 'ParticleEffects-1.0.5+1.20.1.jar'
+name = 'Particle Effects'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '5412ee69efc61e6826c96038667dec52a07812aa8f7d5e5edb82f85fb61c4e45e09042138d3d2a7ef8bd5ca98c94f55e7570e8ab7a43a88dc23510271cd22753'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PLAGcSFJ/versions/tiIxSnaV/ParticleEffects-1.0.5%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'PLAGcSFJ'
+version = 'tiIxSnaV'

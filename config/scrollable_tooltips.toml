@@ -1,0 +1,10 @@
+
+[general]
+
+	[general.general]
+		master_toggle = true
+		horizontal_scrolling = true
+		vertical_scrolling = true
+		tooltip_zooming = true
+		start_at_the_top_of_tooltips = true
+

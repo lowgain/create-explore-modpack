@@ -1,0 +1,16 @@
+filename = 'EndAnchor-1.0.jar'
+name = 'Ender Relay'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ed2d2199cde646bd8ab7c6246d8c78df30b9a34d45739db447aaf98d11b14dc350df60db2e5ec1c13b9e54ccbe039ab44d53969435b2714961499a7e6e85fa88'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tBRNfuiX/versions/laHQ4wxE/EndAnchor-1.0.jar'
+
+[update.modrinth]
+mod-id = 'tBRNfuiX'
+version = 'laHQ4wxE'

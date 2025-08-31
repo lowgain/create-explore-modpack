@@ -1,0 +1,16 @@
+filename = 'fxntstorage-0.20-1.20.1-FABRIC+1.20.1.jar'
+name = 'Create: Storage'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '16373863140e6b584f85d24d5cfac026d60536c533fbe3a726a7c0015f936f09c0b65e09f8ae9bcce4d79832c696cdda4016ecc6afb0ca291e48360534e971bf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/68AG9cQg/versions/SaBfrKba/fxntstorage-0.20-1.20.1-FABRIC%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = '68AG9cQg'
+version = 'SaBfrKba'

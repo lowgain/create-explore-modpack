@@ -1,0 +1,16 @@
+filename = 'rare-ice-0.6.0.jar'
+name = 'Rare Ice'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ce6f0fe038819302bd8e5c3a777b5267b1ce4b29b5d14232eed350bddae3b644034a055a879093e86dab7a492a76101e256e2f5584042f3fb07eba4d418d3464'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uSi0tajU/versions/8UbSLWxB/rare-ice-0.6.0.jar'
+
+[update.modrinth]
+mod-id = 'uSi0tajU'
+version = '8UbSLWxB'

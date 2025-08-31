@@ -1,0 +1,583 @@
+{
+  "_schemaVersion": 7,
+  "_lastMCVersionId": 760,
+  "generalSettings": {
+    "detectATLauncherInstance": false,
+    "detectCurseManifest": false,
+    "detectMultiMCManifest": false,
+    "detectMCUpdaterInstance": false,
+    "detectTechnicPack": false,
+    "detectModrinthPack": false,
+    "detectBiomeData": true,
+    "detectDimensionData": true,
+    "detectWorldData": true,
+    "clientId": "1036351790251262063",
+    "defaultIcon": "create-plus",
+    "enableJoinRequests": true,
+    "preferredClientLevel": 3,
+    "resetTimeOnInit": true,
+    "autoRegister": false
+  },
+  "biomeSettings": {
+    "fallbackBiomeIcon": "the-overworld",
+    "biomeData": {
+      "frozen_ocean": {
+        "textOverride": "Sliding on ice",
+        "data": {
+          "enabled": true,
+          "useAsMain": false,
+          "isInstance": false,
+          "activityType": 0,
+          "partyPrivacy": 1,
+          "details": "",
+          "gameState": "",
+          "largeImageKey": "",
+          "largeImageText": "",
+          "smallImageKey": "",
+          "smallImageText": "",
+          "startTimestamp": "",
+          "endTimestamp": "",
+          "buttons": {}
+        }
+      },
+      "frozen_river": {
+        "textOverride": "Avoiding thin ice",
+        "data": {
+          "enabled": true,
+          "useAsMain": false,
+          "isInstance": false,
+          "activityType": 0,
+          "partyPrivacy": 1,
+          "details": "",
+          "gameState": "",
+          "largeImageKey": "",
+          "largeImageText": "",
+          "smallImageKey": "",
+          "smallImageText": "",
+          "startTimestamp": "",
+          "endTimestamp": "",
+          "buttons": {}
+        }
+      },
+      "default": {
+        "textOverride": "Exploring {biome.name}",
+        "data": {
+          "enabled": true,
+          "useAsMain": false,
+          "isInstance": false,
+          "activityType": 0,
+          "partyPrivacy": 1,
+          "details": "",
+          "gameState": "",
+          "largeImageKey": "",
+          "largeImageText": "",
+          "smallImageKey": "",
+          "smallImageText": "",
+          "startTimestamp": "",
+          "endTimestamp": "",
+          "buttons": {}
+        }
+      },
+      "dripstone_caves": {
+        "textOverride": "Carefully walking around dripstone",
+        "data": {
+          "enabled": true,
+          "useAsMain": false,
+          "isInstance": false,
+          "activityType": 0,
+          "partyPrivacy": 1,
+          "details": "",
+          "gameState": "",
+          "largeImageKey": "",
+          "largeImageText": "",
+          "smallImageKey": "",
+          "smallImageText": "",
+          "startTimestamp": "",
+          "endTimestamp": "",
+          "buttons": {}
+        }
+      },
+      "snowy_plains": {
+        "textOverride": "Trudging through snow",
+        "data": {
+          "enabled": true,
+          "useAsMain": false,
+          "isInstance": false,
+          "activityType": 0,
+          "partyPrivacy": 1,
+          "details": "",
+          "gameState": "",
+          "largeImageKey": "",
+          "largeImageText": "",
+          "smallImageKey": "",
+          "smallImageText": "",
+          "startTimestamp": "",
+          "endTimestamp": "",
+          "buttons": {}
+        }
+      },
+      "ice_spikes": {
+        "textOverride": "Climbing slippery ice spikes",
+        "data": {
+          "enabled": true,
+          "useAsMain": false,
+          "isInstance": false,
+          "activityType": 0,
+          "partyPrivacy": 1,
+          "details": "",
+          "gameState": "",
+          "largeImageKey": "",
+          "largeImageText": "",
+          "smallImageKey": "",
+          "smallImageText": "",
+          "startTimestamp": "",
+          "endTimestamp": "",
+          "buttons": {}
+        }
+      },
+      "lush_caves": {
+        "textOverride": "Jumping across dripleaves",
+        "data": {
+          "enabled": true,
+          "useAsMain": false,
+          "isInstance": false,
+          "activityType": 0,
+          "partyPrivacy": 1,
+          "details": "",
+          "gameState": "",
+          "largeImageKey": "",
+          "largeImageText": "",
+          "smallImageKey": "",
+          "smallImageText": "",
+          "startTimestamp": "",
+          "endTimestamp": "",
+          "buttons": {}
+        }
+      },
+      "snowy_slopes": {
+        "textOverride": "Avoiding powder snow",
+        "data": {
+          "enabled": true,
+          "useAsMain": false,
+          "isInstance": false,
+          "activityType": 0,
+          "partyPrivacy": 1,
+          "details": "",
+          "gameState": "",
+          "largeImageKey": "",
+          "largeImageText": "",
+          "smallImageKey": "",
+          "smallImageText": "",
+          "startTimestamp": "",
+          "endTimestamp": "",
+          "buttons": {}
+        }
+      },
+      "jungle": {
+        "textOverride": "Swinging on jungle vines",
+        "data": {
+          "enabled": true,
+          "useAsMain": false,
+          "isInstance": false,
+          "activityType": 0,
+          "partyPrivacy": 1,
+          "details": "",
+          "gameState": "",
+          "largeImageKey": "",
+          "largeImageText": "",
+          "smallImageKey": "",
+          "smallImageText": "",
+          "startTimestamp": "",
+          "endTimestamp": "",
+          "buttons": {}
+        }
+      },
+      "frozen_peaks": {
+        "textOverride": "Climbing an icy frozen peak",
+        "data": {
+          "enabled": true,
+          "useAsMain": false,
+          "isInstance": false,
+          "activityType": 0,
+          "partyPrivacy": 1,
+          "details": "",
+          "gameState": "",
+          "largeImageKey": "",
+          "largeImageText": "",
+          "smallImageKey": "",
+          "smallImageText": "",
+          "startTimestamp": "",
+          "endTimestamp": "",
+          "buttons": {}
+        }
+      },
+      "swamp": {
+        "textOverride": "Jumping across lily pads",
+        "data": {
+          "enabled": true,
+          "useAsMain": false,
+          "isInstance": false,
+          "activityType": 0,
+          "partyPrivacy": 1,
+          "details": "",
+          "gameState": "",
+          "largeImageKey": "",
+          "largeImageText": "",
+          "smallImageKey": "",
+          "smallImageText": "",
+          "startTimestamp": "",
+          "endTimestamp": "",
+          "buttons": {}
+        }
+      }
+    }
+  },
+  "dimensionSettings": {
+    "fallbackDimensionIcon": "create-plus",
+    "dimensionData": {
+      "default": {
+        "textOverride": "In the {dimension.name}",
+        "data": {
+          "enabled": true,
+          "useAsMain": false,
+          "isInstance": false,
+          "activityType": 0,
+          "partyPrivacy": 1,
+          "details": "",
+          "gameState": "",
+          "largeImageKey": "",
+          "largeImageText": "",
+          "smallImageKey": "",
+          "smallImageText": "",
+          "startTimestamp": "",
+          "endTimestamp": "",
+          "buttons": {}
+        }
+      },
+      "overworld_caves": {
+        "textOverride": "In the {dimension.name}",
+        "iconOverride": "the-overworld",
+        "data": {
+          "enabled": true,
+          "useAsMain": false,
+          "isInstance": false,
+          "activityType": 0,
+          "partyPrivacy": 1,
+          "details": "",
+          "gameState": "",
+          "largeImageKey": "",
+          "largeImageText": "",
+          "smallImageKey": "",
+          "smallImageText": "",
+          "startTimestamp": "",
+          "endTimestamp": "",
+          "buttons": {}
+        }
+      },
+      "the_end": {
+        "textOverride": "In the {dimension.name}",
+        "iconOverride": "the-end",
+        "data": {
+          "enabled": true,
+          "useAsMain": false,
+          "isInstance": false,
+          "activityType": 0,
+          "partyPrivacy": 1,
+          "details": "",
+          "gameState": "",
+          "largeImageKey": "",
+          "largeImageText": "",
+          "smallImageKey": "",
+          "smallImageText": "",
+          "startTimestamp": "",
+          "endTimestamp": "",
+          "buttons": {}
+        }
+      },
+      "overworld": {
+        "textOverride": "In the {dimension.name}",
+        "iconOverride": "the-overworld",
+        "data": {
+          "enabled": true,
+          "useAsMain": false,
+          "isInstance": false,
+          "activityType": 0,
+          "partyPrivacy": 1,
+          "details": "",
+          "gameState": "",
+          "largeImageKey": "",
+          "largeImageText": "",
+          "smallImageKey": "",
+          "smallImageText": "",
+          "startTimestamp": "",
+          "endTimestamp": "",
+          "buttons": {}
+        }
+      },
+      "the_nether": {
+        "textOverride": "In the {dimension.name}",
+        "iconOverride": "the-nether",
+        "data": {
+          "enabled": true,
+          "useAsMain": false,
+          "isInstance": false,
+          "activityType": 0,
+          "partyPrivacy": 1,
+          "details": "",
+          "gameState": "",
+          "largeImageKey": "",
+          "largeImageText": "",
+          "smallImageKey": "",
+          "smallImageText": "",
+          "startTimestamp": "",
+          "endTimestamp": "",
+          "buttons": {}
+        }
+      }
+    }
+  },
+  "serverSettings": {
+    "fallbackServerIcon": "the-overworld",
+    "fallbackServerName": "Minecraft Server",
+    "fallbackServerMotd": "A Minecraft Server",
+    "serverData": {
+      "default": {
+        "textOverride": "Playing on {server.motd.raw}",
+        "data": {
+          "enabled": true,
+          "useAsMain": false,
+          "isInstance": false,
+          "activityType": 0,
+          "partyPrivacy": 1,
+          "details": "",
+          "gameState": "",
+          "largeImageKey": "",
+          "largeImageText": "",
+          "smallImageKey": "",
+          "smallImageText": "",
+          "startTimestamp": "",
+          "endTimestamp": "",
+          "buttons": {}
+        }
+      }
+    },
+    "pingRateInterval": 5,
+    "pingRateUnit": "minutes"
+  },
+  "statusMessages": {
+    "mainMenuData": {
+      "textOverride": "In the Main Menu",
+      "data": {
+        "enabled": true,
+        "useAsMain": false,
+        "isInstance": false,
+        "activityType": 0,
+        "partyPrivacy": 1,
+        "details": "",
+        "gameState": "",
+        "largeImageKey": "",
+        "largeImageText": "",
+        "smallImageKey": "",
+        "smallImageText": "",
+        "startTimestamp": "",
+        "endTimestamp": "",
+        "buttons": {}
+      }
+    },
+    "loadingData": {
+      "textOverride": "Loading...",
+      "data": {
+        "enabled": true,
+        "useAsMain": false,
+        "isInstance": false,
+        "activityType": 0,
+        "partyPrivacy": 1,
+        "details": "",
+        "gameState": "",
+        "largeImageKey": "",
+        "largeImageText": "",
+        "smallImageKey": "",
+        "smallImageText": "",
+        "startTimestamp": "",
+        "endTimestamp": "",
+        "buttons": {}
+      }
+    },
+    "lanData": {
+      "textOverride": "Playing on a LAN Server",
+      "data": {
+        "enabled": true,
+        "useAsMain": false,
+        "isInstance": false,
+        "activityType": 0,
+        "partyPrivacy": 1,
+        "details": "",
+        "gameState": "",
+        "largeImageKey": "",
+        "largeImageText": "",
+        "smallImageKey": "",
+        "smallImageText": "",
+        "startTimestamp": "",
+        "endTimestamp": "",
+        "buttons": {}
+      }
+    },
+    "singleplayerData": {
+      "textOverride": "Playing Singleplayer",
+      "data": {
+        "enabled": true,
+        "useAsMain": false,
+        "isInstance": false,
+        "activityType": 0,
+        "partyPrivacy": 1,
+        "details": "",
+        "gameState": "",
+        "largeImageKey": "",
+        "largeImageText": "",
+        "smallImageKey": "",
+        "smallImageText": "",
+        "startTimestamp": "",
+        "endTimestamp": "",
+        "buttons": {}
+      }
+    },
+    "realmData": {
+      "textOverride": "Playing on {server.motd.raw}"
+    }
+  },
+  "advancedSettings": {
+    "enablePerGui": false,
+    "enablePerItem": false,
+    "enablePerEntity": false,
+    "formatWords": true,
+    "debugMode": true,
+    "verboseMode": true,
+    "refreshRate": 2,
+    "allowPlaceholderPreviews": false,
+    "guiSettings": {
+      "fallbackGuiIcon": "unknown",
+      "guiData": {
+        "default": {
+          "textOverride": "In {screen.name}",
+          "data": {
+            "enabled": true,
+            "useAsMain": false,
+            "isInstance": false,
+            "activityType": 0,
+            "partyPrivacy": 1,
+            "details": "",
+            "gameState": "",
+            "largeImageKey": "",
+            "largeImageText": "",
+            "smallImageKey": "",
+            "smallImageText": "",
+            "startTimestamp": "",
+            "endTimestamp": "",
+            "buttons": {}
+          }
+        }
+      }
+    },
+    "itemMessages": {
+      "default": "Holding {item.message.holding}"
+    },
+    "entitySettings": {
+      "fallbackEntityIcon": "unknown",
+      "targetData": {
+        "default": {
+          "textOverride": "Targeting {entity.target.name}",
+          "data": {
+            "enabled": true,
+            "useAsMain": false,
+            "isInstance": false,
+            "activityType": 0,
+            "partyPrivacy": 1,
+            "details": "",
+            "gameState": "",
+            "largeImageKey": "",
+            "largeImageText": "",
+            "smallImageKey": "",
+            "smallImageText": "",
+            "startTimestamp": "",
+            "endTimestamp": "",
+            "buttons": {}
+          }
+        }
+      },
+      "ridingData": {
+        "default": {
+          "textOverride": "Riding {entity.riding.name}",
+          "data": {
+            "enabled": true,
+            "useAsMain": false,
+            "isInstance": false,
+            "activityType": 0,
+            "partyPrivacy": 1,
+            "details": "",
+            "gameState": "",
+            "largeImageKey": "",
+            "largeImageText": "",
+            "smallImageKey": "",
+            "smallImageText": "",
+            "startTimestamp": "",
+            "endTimestamp": "",
+            "buttons": {}
+          }
+        }
+      }
+    },
+    "allowEndpointIcons": true,
+    "serverIconEndpoint": "https://api.mcsrvstat.us/icon/{server.address.short}",
+    "playerSkinEndpoint": "https://crafatar.com/avatars/%1$s",
+    "allowDuplicatePackets": false,
+    "maxConnectionAttempts": 10,
+    "enableClassGraph": false
+  },
+  "accessibilitySettings": {
+    "languageId": "en_us",
+    "stripTranslationColors": false,
+    "stripTranslationFormatting": false,
+    "stripExtraGuiElements": false,
+    "configKeyCode": -1
+  },
+  "displaySettings": {
+    "presenceData": {
+      "enabled": true,
+      "useAsMain": false,
+      "isInstance": false,
+      "activityType": 0,
+      "partyPrivacy": 1,
+      "details": "{getOrDefault(dimension.message, menu.message)}",
+      "gameState": "{server.message}",
+      "largeImageKey": "create-plus",
+      "largeImageText": "{general.version}",
+      "smallImageKey": "{dimension.icon}",
+      "smallImageText": "{biome.message}",
+      "startTimestamp": "{data.general.time}",
+      "endTimestamp": "",
+      "buttons": {
+        "button_1": {
+          "label": "Get the modpack!",
+          "url": "https://modrinth.com/modpack/create_plus"
+        }
+      }
+    },
+    "dynamicIcons": {
+      "Create+": "https://imgur.com/a/zOfXm4B",
+      "game6.falixserver.net": "https://api.mcsrvstat.us/icon/game6.falixserver.net",
+      "create_plus.falixsrv.me": "https://api.mcsrvstat.us/icon/create_plus.falixsrv.me",
+      "StormDragon_64": "https://crafatar.com/avatars/badc85e3fe9342d3a41395b4b4ff878a"
+    },
+    "dynamicVariables": {
+      "mods": "{general.mods} Mod(s)",
+      "player_info_coordinate": "At {player.position.x}, {player.position.z}",
+      "players": "{server.players.current} / {server.players.max} Players",
+      "player_info_in": "({custom.player_info_health})",
+      "player_info_items": "Items: {item.main_hand.message}",
+      "player_info_out": "As {player.name}",
+      "player_info_health": "Health: {player.health.current}/{player.health.max}",
+      "world_info": "On {world.name}",
+      "pack": "{pack.name}"
+    }
+  }
+}

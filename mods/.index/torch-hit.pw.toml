@@ -1,0 +1,16 @@
+filename = 'torch-hit-fabric-1.20.1-7.0.0.jar'
+name = 'Torch hit!'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ec03b5d57d71ce06ab69fd1aea6e65b7d7ff0961db9fdc830b8d1ca1e09fc29dc6070b4f775e0c4f614033576dee9f41eacdffe4f10d680fba0b6a569fa03a43'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zTOq9jEI/versions/DIpiAYa7/torch-hit-fabric-1.20.1-7.0.0.jar'
+
+[update.modrinth]
+mod-id = 'zTOq9jEI'
+version = 'DIpiAYa7'

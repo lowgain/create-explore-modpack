@@ -1,0 +1,34 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": false,
+  "key": {
+    "G": {
+      "tag": "forge:glass"
+    },
+    "W": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "R": {
+      "item": "minecraft:respawn_anchor"
+    },
+    "S": {
+      "item": "create:shaft"
+    },
+    "C": {
+      "item": "create:brass_casing"
+    },
+    "P": {
+      "item": "create:precision_mechanism"
+    }
+  },
+  "pattern": [
+    "GGGGG",
+    "G W G",
+    "G R G",
+    "CPPPC",
+    "CCSCC"
+  ],
+  "result": {
+    "item": "create_power_loader:empty_brass_chunk_loader"
+  }
+}

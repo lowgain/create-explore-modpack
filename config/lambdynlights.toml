@@ -1,0 +1,194 @@
+
+[light_sources]
+	entities = true
+	self = true
+	block_entities = true
+	water_sensitive_check = true
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				player = true
+				skeleton = true
+				glow_squid = true
+				cow = true
+				sheep = true
+				bat = true
+				zombie = true
+				salmon = true
+				pig = true
+				squid = true
+				chicken = true
+				wolf = true
+				creeper = true
+				enderman = true
+				drowned = true
+				witch = true
+				zombified_piglin = true
+				piglin = true
+				magma_cube = true
+				ghast = true
+				strider = true
+				spider = true
+				item = true
+				hoglin = true
+				zombie_villager = true
+				tnt_minecart = true
+				villager = true
+				cat = true
+				iron_golem = true
+				horse = true
+				bee = true
+				parrot = true
+				cave_spider = true
+				experience_orb = true
+				ocelot = true
+				arrow = true
+				donkey = true
+				goat = true
+				lightning_bolt = true
+				trident = true
+				egg = true
+				axolotl = true
+				tropical_fish = true
+				panda = true
+				turtle = true
+				cod = true
+				rabbit = true
+				polar_bear = true
+				fox = true
+				stray = true
+				dolphin = true
+				frog = true
+				item_frame = true
+				pufferfish = true
+				slime = true
+				warden = true
+				experience_bottle = true
+				piglin_brute = true
+				husk = true
+				armor_stand = true
+				ender_pearl = true
+				silverfish = true
+				wither_skeleton = true
+				blaze = true
+				area_effect_cloud = true
+				small_fireball = true
+				phantom = true
+				firework_rocket = true
+				wither = true
+				wither_skull = true
+				ender_dragon = true
+				dragon_fireball = true
+				wandering_trader = true
+				trader_llama = true
+				zombie_horse = true
+				skeleton_horse = true
+				chest_boat = true
+				illusioner = true
+				painting = true
+				llama = true
+				potion = true
+				pillager = true
+
+			[light_sources.settings.entities.untitledduckmod]
+				goose = true
+				duck = true
+				goose_egg = true
+
+			[light_sources.settings.entities.quark]
+				forgotten = true
+				stoneling = true
+				foxhound = true
+				toretoise = true
+				flamerang = true
+				shiba = true
+				echorang = true
+				crab = true
+				pickarang = true
+				wraith = true
+
+			[light_sources.settings.entities.imm_ptl_core]
+				nether_portal_new = true
+
+			[light_sources.settings.entities.createportal]
+				portal_override = true
+
+			[light_sources.settings.entities.create]
+				super_glue = true
+				carriage_contraption = true
+				stationary_contraption = true
+				potato_projectile = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				rascal = true
+				copper_golem = true
+				moobloom = true
+
+			[light_sources.settings.entities.decoration_delight]
+				stool_entity = true
+
+			[light_sources.settings.entities.ecologics]
+				squirrel = true
+				coconut_crab = true
+				penguin = true
+				camel = true
+
+			[light_sources.settings.entities.neapolitan]
+				chimpanzee = true
+				plantain_spider = true
+				banana_peel = true
+
+			[light_sources.settings.entities.corpse]
+				corpse = true
+
+			[light_sources.settings.entities.relics]
+				dissection = true
+				solid_snowball = true
+
+			[light_sources.settings.entities.sit]
+				entity_sit = true
+
+			[light_sources.settings.entities.nock_enough_arrows]
+				teleportation_arrow = true
+				seeker_arrow = true
+				ethereal_arrow = true
+				slime_arrow = true
+				explosive_arrow = true
+				pufferfish_arrow = true
+				message_arrow = true
+				hookshot_arrow = true
+				paint_arrow = true
+				sputter = true
+				dousing_arrow = true
+
+			[light_sources.settings.entities.railways]
+				conductor = true
+
+			[light_sources.settings.entities.farmersdelight]
+				rotten_tomato = true
+
+			[light_sources.settings.entities.endergetic]
+				puff_bug = true
+				booflo = true
+				booflo_adolescent = true
+				booflo_baby = true
+				poise_cluster = true
+
+			[light_sources.settings.entities.projectiles]
+				dynamite = true
+				prismarine_arrow = true
+				slime_arrow = true
+				cobweb_arrow = true
+				chorus_arrow = true
+				tnt_arrow = true
+				ender_arrow = true
+				echo_arrow = true
+				soul_arrow = true
+				netherite_arrow = true
+

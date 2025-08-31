@@ -1,0 +1,16 @@
+filename = 'netherite_horse_armor-0.4.6-1.20.1.jar'
+name = 'Netherite Horse Armor'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'ee7e6db45484ef79a115acfc1fd385de829565abdaaf0fa734c320c65f00b520106e80e066278971dabe6bc3adf1d8d94ef1ce65e8c506117cd2f8cd4c06197e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/I3pWDyqP/versions/D4zOi4l4/netherite_horse_armor-0.4.6-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'I3pWDyqP'
+version = 'D4zOi4l4'

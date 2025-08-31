@@ -1,0 +1,16 @@
+filename = 'supplementaries-1.20-3.1.37-fabric.jar'
+name = 'Supplementaries'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '044d33a1f4b24094c21d94e5168155d6cc76fccd9d49962ec3b25e20e79aff0fb93e70803fd1c132ba44b65112e5b96dc985577c671c73c68bd0586bedb5f184'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fFEIiSDQ/versions/7Z1u8P8P/supplementaries-1.20-3.1.37-fabric.jar'
+
+[update.modrinth]
+mod-id = 'fFEIiSDQ'
+version = '7Z1u8P8P'

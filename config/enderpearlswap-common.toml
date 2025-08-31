@@ -1,0 +1,7 @@
+
+["Configs for Skillcloaks"]
+	#How will the mod function. True = only directly hitting with an ender pearl causes the switch. False = entities near the landing area are switched too. (Default = true)
+	"On which mode the mod will be" = true
+	#How far in blocks do entities need to be from the pearl to be teleported (Default = 1.1)
+	"Distance from pearl" = 1.1
+

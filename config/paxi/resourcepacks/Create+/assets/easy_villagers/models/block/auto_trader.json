@@ -1,0 +1,23 @@
+{
+	"credit": "Made by StormDragon_64 in Blockbench :)",
+	"ambientocclusion": false,
+	"texture_size": [1080, 1080],
+	"textures": {
+		"0": "easy_villagers:block/alert",
+		"particle": "easy_villagers:block/alert"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 15.8963, 15.94074], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [16, 16, 0, 0], "texture": "#0"},
+				"down": {"uv": [16, 0, 0, 16], "texture": "#0"}
+			}
+		}
+	]
+}

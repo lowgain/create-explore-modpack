@@ -1,0 +1,16 @@
+filename = 'centered-crosshair+1.20.1-1.0.6+b2.jar'
+name = 'Centered Crosshair'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6e48f4ff12cb9cde2b1857ae21c32fc146ff804f6accf9fab45915eecfcd40c70a4b9a9a17305570add5a27708751d1d736027b8b26fd3ed6b10cbefffadb1cb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xUTHly0N/versions/hiA1LsOR/centered-crosshair%2B1.20.1-1.0.6%2Bb2.jar'
+
+[update.modrinth]
+mod-id = 'xUTHly0N'
+version = 'hiA1LsOR'

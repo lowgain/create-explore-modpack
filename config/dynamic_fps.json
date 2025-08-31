@@ -1,0 +1,19 @@
+{
+  "uncap_menu_frame_rate": true,
+  "idle": {
+    "timeout": 60
+  },
+  "download_natives": false,
+  "states": {
+    "unfocused": {
+      "frame_rate_target": 10,
+      "run_garbage_collector": true
+    },
+    "abandoned": {
+      "show_toasts": true
+    },
+    "invisible": {
+      "run_garbage_collector": true
+    }
+  }
+}
