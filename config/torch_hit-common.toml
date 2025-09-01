@@ -38,4 +38,3 @@
 # Whether mobs wielding a torch can set their targets on fire.
 # Generally useful only when other mods tweak mobs to wield torches.
 "fire from mobs" = true
-

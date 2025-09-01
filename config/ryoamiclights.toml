@@ -85,6 +85,7 @@
 				endermite = true
 				dragon_fireball = true
 				spectral_arrow = true
+				panda = true
 
 			[light_sources.settings.entities.corpse]
 				corpse = true
@@ -161,4 +162,7 @@
 				booflo = true
 				booflo_adolescent = true
 				booflo_baby = true
+
+			[light_sources.settings.entities.yungscavebiomes]
+				sand_snapper = true
 

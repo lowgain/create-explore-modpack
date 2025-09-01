@@ -1,0 +1,18 @@
+{
+  "#README": "This config file does not support comments. To see them configure it in-game using YACL or Cloth Config",
+  "crystaltype": {
+    "blacklist": []
+  },
+  "dusttype": {
+    "blacklist": []
+  },
+  "gemtype": {
+    "blacklist": []
+  },
+  "metaltype": {
+    "blacklist": []
+  },
+  "entryset": {
+    "blacklist": []
+  }
+}

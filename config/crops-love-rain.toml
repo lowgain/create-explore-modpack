@@ -1,8 +1,6 @@
-
 [general]
 	rainGrowthSpeed = 3
 	useRainGrowthSpeed = true
-
 [individual]
 	useGeneralSpeedSaplings = true
 	sugarCaneCustomSpeed = 10
@@ -13,4 +11,3 @@
 	useGeneralSpeedSugarCane = true
 	useIndividualSpeeds = false
 	saplingCustomSpeed = 10
-

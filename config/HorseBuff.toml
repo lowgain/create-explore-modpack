@@ -4,7 +4,9 @@ rubberBand = true
 breakSpeed = true
 stepHeight = true
 noBuck = true
-swim = true
+swimHorse = true
+swimCamel = false
+swimDead = false
 horseHeadAngleOffset = 0
 jeb_Horses = true
 

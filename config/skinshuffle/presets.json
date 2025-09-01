@@ -1,0 +1,14 @@
+{
+  "chosenPreset": 0,
+  "apiPreset": 0,
+  "loadedPresets": [
+    {
+      "skin": {
+        "url": "http://textures.minecraft.net/texture/fae5b81c32cbe87bf712a732468083d6d9f1c184d53fc09df46a58e9b5d6a8e7",
+        "model": "classic",
+        "type": "skinshuffle:url"
+      },
+      "name": "papa_marshmellow"
+    }
+  ]
+}

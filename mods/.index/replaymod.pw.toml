@@ -1,16 +1,16 @@
-filename = 'replaymod-1.20.1-2.6.19.jar'
-name = 'ReplayMod'
-side = 'client'
+filename = 'replaymod-1.20.1-2.6.23.jar'
+name = 'Replay Mod'
+side = 'both'
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '6f9630cc025302581f205816b6bc760a3c0d4cdac294e11fe1bb66e907aea27eb4b6093bdc195479dd680955d38368dfbee85ad3871b0d53d312ddb85b28e57f'
+hash = 'dc255bf916acca75c4bbf1df0ad45a944bbbf014c0246082c31df56d4fa8425d6ddecf1f6c4cf81c4588c494a6da36436e639b989def9c02d1a80d58a39db66f'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/Nv2fQJo5/versions/jax1ffrh/replaymod-1.20.1-2.6.19.jar'
+url = 'https://cdn.modrinth.com/data/Nv2fQJo5/versions/ReB0T2tK/replaymod-1.20.1-2.6.23.jar'
 
 [update.modrinth]
 mod-id = 'Nv2fQJo5'
-version = 'jax1ffrh'
+version = 'ReB0T2tK'
