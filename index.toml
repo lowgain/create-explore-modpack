@@ -1,0 +1,14 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "a39382ff74b144b486e75b5b5c186286ca0b325445c9876f80c7488c2c75e2f2"
+
+[[files]]
+file = "mods/.index/fabric-api.pw.toml"
+hash = "96753d95cc61388872b9030b496851e5942ec2e6359c44c918fbc1f581321de1"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api-0.92.6+1.20.1.jar"
+hash = "0ece50476da3692111ab04b75945c5458e70d98cd069eefc044ab3e57977deeb"
