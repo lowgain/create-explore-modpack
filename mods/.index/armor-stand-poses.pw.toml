@@ -1,0 +1,16 @@
+filename = 'poses-1.20.x-1.0.0.jar'
+name = 'Armor Stand Poses'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7aaf46730c0df714b29b726eebe9082dc987d045b7c5a7bdd120be3182eeb950cebf7bf2b584975c42d223203cf5de670ad3dc8937f01a71395bf85945eda871'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vuA4mu4C/versions/9U5tsASl/poses-1.20.x-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'vuA4mu4C'
+version = '9U5tsASl'

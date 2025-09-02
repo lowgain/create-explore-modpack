@@ -1,0 +1,16 @@
+filename = 'libreexpfix-0.2.7+1.18b14-BETA-fabric.jar'
+name = 'LibreExpFix (Fixes "0 Experience" Bug)'
+side = 'server'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.18', '1.18.1', '1.18.2', '1.19', '1.19.1', '1.19.2', '1.19.3', '1.19.4', '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'a119d7b64cddae1ef355f81baccfd77a3e3a713cf48a1664912ff99f726e4847273904f374b749257af1b61540643ace75c3fb5a4242b0ad61b12068377bacb1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qOQALrK4/versions/fLVhqshg/libreexpfix-0.2.7%2B1.18b14-BETA-fabric.jar'
+
+[update.modrinth]
+mod-id = 'qOQALrK4'
+version = 'fLVhqshg'

@@ -1,0 +1,58 @@
++-------------------------+-------+---------+-----------+
+| Material List for placement 'Unnamed'                 |
++-------------------------+-------+---------+-----------+
+| Item                    | Total | Missing | Available |
++-------------------------+-------+---------+-----------+
+| Wither Skeleton Skull   |     1 |       1 |         3 |
+| White Concrete          |   504 |     504 |       530 |
+| Water Bucket            |    28 |      28 |         0 |
+| Torch                   |    34 |      34 |        61 |
+| Stone Bricks            |   173 |     173 |         0 |
+| Spruce Stairs           |     8 |       8 |         0 |
+| Spruce Slab             |     4 |       4 |         0 |
+| Spruce Planks           |    79 |      79 |         0 |
+| Soul Sand               |     5 |       5 |         0 |
+| Smooth Quartz Stairs    |   402 |     402 |         0 |
+| Smooth Quartz Slab      |   240 |     240 |         0 |
+| Smooth Quartz Block     |   114 |     114 |         0 |
+| Shulker Box             |     1 |       1 |         0 |
+| Sea Lantern             |     3 |       3 |         0 |
+| Sculk Vein              |    46 |      46 |         0 |
+| Sculk Shrieker          |     2 |       2 |         0 |
+| Sculk Catalyst          |     1 |       1 |         7 |
+| Sculk                   |    27 |      27 |        17 |
+| Red Nether Bricks       |     5 |       5 |         0 |
+| Red Nether Brick Wall   |     5 |       5 |         0 |
+| Red Carpet              |    25 |      25 |         0 |
+| Quartz Pillar           |   163 |     163 |         0 |
+| Purpur Stairs           |     2 |       2 |         0 |
+| Purpur Pillar           |     2 |       2 |         0 |
+| Prismarine Wall         |    14 |      14 |         0 |
+| Prismarine              |    30 |      30 |        39 |
+| Player Head             |     5 |       5 |         3 |
+| Obsidian                |     2 |       2 |         0 |
+| Netherrack              |     2 |       2 |        64 |
+| Nether Bricks           |    54 |      54 |        55 |
+| Nether Brick Stairs     |     3 |       3 |        17 |
+| Nether Brick Fence      |     2 |       2 |        29 |
+| Lava Bucket             |     2 |       2 |         0 |
+| Lantern                 |     9 |       9 |         0 |
+| Grass Block             |   132 |      68 |         0 |
+| Glowstone               |     4 |       4 |         0 |
+| Glass Pane              |    60 |      60 |       128 |
+| Glass                   |    84 |      84 |       128 |
+| End Stone Brick Wall    |     5 |       5 |         0 |
+| End Stone               |    27 |      27 |        53 |
+| End Rod                 |    26 |      26 |        59 |
+| Dragon Head             |     1 |       1 |         0 |
+| Dragon Egg              |     1 |       1 |         1 |
+| Dirt                    |   213 |      51 |         0 |
+| Dark Oak Stairs         |     4 |       4 |         0 |
+| Dark Oak Planks         |   391 |     391 |         0 |
+| Dark Oak Door           |     4 |       4 |         0 |
+| Cyan Stained Glass Pane |     1 |       1 |         0 |
+| Cobbled Deepslate Wall  |     5 |       5 |         0 |
+| Chiseled Stone Bricks   |   114 |     114 |         0 |
++-------------------------+-------+---------+-----------+
+| Item                    | Total | Missing | Available |
++-------------------------+-------+---------+-----------+

@@ -1,0 +1,16 @@
+filename = 'musicnotification-2.0.1+1.20.1.jar'
+name = 'Music Notification'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9cb4fd2c4a01de117a7250e3574c79c09ad2b6c603a4afaa1fd14531b000cef6b1cb774556787dafa62941c948944a980c080482cdf65a6974a76591ad5773f8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/A4YQgwzz/versions/X3vXXIdd/musicnotification-2.0.1%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'A4YQgwzz'
+version = 'X3vXXIdd'
